@@ -1,1 +1,1 @@
-# SMIIT-Website
+# SMIIT-Main
